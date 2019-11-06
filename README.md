@@ -1,1 +1,4 @@
-# The-Pearson-Guide-To-Quantitative-Aptitude-And-Data-Interpretation-For-The-CAT-Book
+<h2>The Pearson Guide To Quantitative Aptitude And Data Interpretation For The CAT  </h2>
+
+<p><strong>The Pearson Guide To Quantitative Aptitude And Data Interpretation For The CAT</strong> by <strong>Nishit K Sinha</strong> is a comprehensive guide to solving the quantitative aptitude and data interpretation sections of the CAT. The book is useful for many <strong>B-school entrance examination</strong> papers too. Containing a lucid and <strong>concise explanation of concepts</strong>, and many examples and solved equations to enable students to understand the topics better, this book also contains a large number of problems that students can practise with. These problems are arranged in 4 levels of<strong> increasing difficulty</strong>, and helps students improve and assess their work in each level, providing scope for self-improvement. It also contains a section on vedic maths that gives tips to students on how to solve certain problems quickly, in much shorter steps.</p>
+
